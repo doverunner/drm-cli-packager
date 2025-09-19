@@ -9,5 +9,5 @@ It can package MP4 video and/or M4A audio files into five different types of con
 5. HLS-NCG: HLS content packaging with SAMPLE-AES clear key protected by NCG DRM.
 6. WisePlay: A method of applying Huawei's WisePlay DRM by packaging streaming contents with MPEG-DASH CENC standard, primarily used for protecting premium content on Huawei mobile devices and platforms.
 
-- [Guide document](https://doverunner.com/docs/en/multidrm/packaging/cli-packager/)
-- [Helpdesk for technical support](https://pallycon.zendesk.com)
+- [Guide document](https://doverunner.com/docs/content-security/multi-drm/packaging/cli-packager/)
+- [Helpdesk for technical support](https://support.doverunner.com/hc/en-us)
